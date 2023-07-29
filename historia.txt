@@ -1,0 +1,3 @@
+Empezamos creando un documento de texto plano
+
+Este es un simple ejemplo de documento de texto
