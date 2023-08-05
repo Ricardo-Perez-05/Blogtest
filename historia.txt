@@ -4,4 +4,4 @@ Este es un simple ejemplo de documento de texto
 
 Cambiamos algo
 
-Hoy hablaremos de su vida
+Hoy hablaremos de su vida y hobbies
