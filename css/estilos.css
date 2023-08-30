@@ -8,7 +8,7 @@ body {
 
 #container {
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;
@@ -17,3 +17,24 @@ body {
 #container h1 {
     font-size: 20px;
 }
+
+#cabecera {
+    background-color: rgba(185, 6, 6, 0.61);
+    color:aliceblue;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+    font-size: large;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+}
+
+#cabecera #tagline {
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+#container #post {
+    padding: 1em;
+}
+
