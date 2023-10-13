@@ -38,3 +38,10 @@ body {
     padding: 1em;
 }
 
+#footer {
+    background-color: rgb(33, 20, 220);
+    color: white;
+    text-align: center;
+    word-spacing: 1px;
+}
+
