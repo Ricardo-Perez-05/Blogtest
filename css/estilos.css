@@ -26,6 +26,11 @@ body {
     font-weight: bold;
     font-size: large;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    text-align: center;
+    display: grid;
+    align-items: center;
+    grid-template-columns: 15% 20% 65%;
+
 }
 
 #cabecera #tagline {
@@ -36,5 +41,13 @@ body {
 
 #container #post {
     padding: 1em;
+}
+
+.imagen {
+    background-image: url(../imagen/topo.jpg);
+    width: 100px;
+    height: 100px;
+    background-size:cover;
+    display: inline-block;
 }
 
