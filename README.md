@@ -6,3 +6,5 @@ Un blog para el curso de GIT de platzi
 * Trabajando en colaboracion con un servidor remoto
 * Realizar cambio y actualizaciones en ramas de desarrollo
 * Revisar cambios y ejecutar las modificaciones
+* incluye la evaluacion
+* Incluye creacion de repositorio en git hub
