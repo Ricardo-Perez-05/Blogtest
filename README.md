@@ -8,3 +8,4 @@ Un blog para el curso de GIT de platzi
 * Revisar cambios y ejecutar las modificaciones
 * incluye la evaluacion
 * Incluye creacion de repositorio en git hub
+* Ya casi cerramos el ciclo de git y github
